@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,GAAI;EACF,MAAM,EAAE,UAAU;EAClB,MAAM,EAAE,KAAK;EACb,KAAK,EAAE,IAAI;EACX,OAAO,EAAE,IAAI;EACb,QAAO;IACL,OAAO,EAAE,KAAK",
+"sources": ["head_turning.scss"],
+"names": [],
+"file": "head_turning.css"
+}

@@ -1,0 +1,9 @@
+img {
+  margin: 300px auto;
+  height: 300px;
+  width: auto;
+  display: none;
+  &.show {
+    display: block;
+  }
+}
